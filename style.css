@@ -426,6 +426,7 @@ nav {
 }
 
 .hero{
+  margin-top: 40px;
   width: 350px;
   filter: drop-shadow(0 0 10px #1d1d4a);
 }
@@ -449,6 +450,7 @@ nav {
   }
 
   .hero {
+    margin-top: 0px;
     width: 400px;
   }
   
