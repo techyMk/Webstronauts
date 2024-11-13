@@ -1,0 +1,22 @@
+//copy this and paste it in the css file
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+
+Used fonts:
+
+Lisu Bosa
+Poppins
+
+Used colors:
+
+Explore button: #30b1e8 (light blue)
+
+Discover button: #f35525 (orange)
+          hover: #2e4de9 (blue)
+
+Section2 text colors:
+
+Text 1: #4a4a4a (black)
+Text 2: #1e1e1e (gray)
+Text Box Background: #fbd9cf (pale orange)
